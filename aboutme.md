@@ -4,7 +4,9 @@ title: About me
 
 ---
 
-I am a **PhD student** at PSG College of Technology and also working as Assistant Professor in the same college. My areas of interest include Machine Learning, Image Processing and Digital Forensics. Currently working on projects related with **_Medical Image Analysis_**.
+**_Teacher with a passion to eradicate social problems through revolutionary ideas._** 
+
+Woring as **Assistant Professor** at PSG College of Technology. Also pursuing PhD in the domain of medical image analysis. Have broad interests in the fields Machine Learning, Image Processing and Digital Forensincs.Currently working on projects related with **_Medical Image Analysis_**.
 
 I would like to contribute to Open source projects.
 
