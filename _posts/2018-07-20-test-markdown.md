@@ -2,7 +2,7 @@
 layout: post
 title: Tumour Class Prediction using Radiology and Pathology Images
 subtitle: Submitted to CPM,MICCAI
-gh-repo: nikku1234/Combined-Pathology-and-Radiology
+gh-repo: Ravitha89/Combined-Pathology-and-Radiology
 gh-badge: [star, fork, follow]
 tags: [test]
 ---
