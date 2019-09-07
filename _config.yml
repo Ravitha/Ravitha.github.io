@@ -27,7 +27,7 @@ navbar-links:
   Courses Handled: "courses"
   Projects: "projects"
   CV: "cv"
-  Talks: "talks"
+  Talks: "Talks"
   #Resources:
     #- Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
    # - Learn markdown: "http://www.markdowntutorial.com/"
