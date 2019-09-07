@@ -1,6 +1,8 @@
 ---
+
 layout: page
 title: Talks
+
 ---
 
 - **Deep Learning Workflow in Keras** in one week FDP on Computer Vision and Deep Learning: A Research Perspective – August 28, 2019.
