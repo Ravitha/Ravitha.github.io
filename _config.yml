@@ -25,6 +25,9 @@ description: Ravitha's Blog
 navbar-links:
   About Me: "aboutme"
   Courses Handled: "courses"
+  Projects: "projects"
+  CV: "cv"
+  Talks: "talks"
   #Resources:
     #- Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
    # - Learn markdown: "http://www.markdowntutorial.com/"
