@@ -5,4 +5,4 @@ title: Gist of Myself!!
 
 ---
 
-[embed]https://drive.google.com/open?id=1m9kxa-TZOsBkkWRY3FjLoWkMpXzmmfMb[/embed]
+[embed]https://github.com/Ravitha/Ravitha.github.io/blob/master/CV%20-%20Ravitha%20Rajalakshmi.pdf[/embed]
