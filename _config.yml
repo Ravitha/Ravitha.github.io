@@ -24,7 +24,7 @@ description: Ravitha's Blog
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Courses Handled: "courses"
+  Teaching: "courses"
   Projects: "projects"
   CV: "cv"
   Talks: "Talks"
