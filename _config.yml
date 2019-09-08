@@ -59,7 +59,7 @@ footer-link-col: "#404040"
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
 
-# navbar-img: "/img/bgimage.png"
+ navbar-img: "/img/path.jpg"
 # footer-img: "/img/bgimage.png"
 # page-img: "/img/bgimage.png"
 
@@ -78,7 +78,7 @@ social-network-links:
   rss: true
   email: "myravithar@gmail.com"
   #facebook: daattali
-  github: Ravitha89
+  github: Ravitha
   twitter: Ravitha89
 #  reddit: yourname
 #  google-plus: +DeanAttali
