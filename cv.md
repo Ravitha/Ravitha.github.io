@@ -1,8 +1,8 @@
 ---
 
 layout: page
-title: Curriculum Vitae
+title: Gist of Myself!!
 
 ---
 
-Write me to mail <nrr.it@psgtech.ac.in> to get my CV
+[embed]https://drive.google.com/open?id=1m9kxa-TZOsBkkWRY3FjLoWkMpXzmmfMb[/embed]
