@@ -5,7 +5,7 @@ title: Talks
 
 ---
 
-- **Deep Learning Workflow in Keras** in one week FDP on Computer Vision and Deep Learning: A Research Perspective – August 28, 2019.
+- **Deep Learning Workflow in Keras** in one week FDP on Computer Vision and Deep Learning: A Research Perspective – August 28, 2019. [Slides](https://github.com/Ravitha/Ravitha.github.io/blob/master/Guest%20Lectures/Deep%20Learning%20Workflow.pdf)
 - **Technology in Classroom: Google Classroom** –Technical Seminar – PSG College of Technology – July 19, 2019.
 - **File System and Memory Forensics** in Two days value added course on Cyber Security and Forensics – PSG Institute of Technology and Applied Research – June 24-25, 2019
 - **Machine Learning for Data Analysis** in one week FDP on Big Data Analytics – PSG College of Technology – Nov 29, 2018.
