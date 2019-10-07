@@ -1,8 +1,6 @@
 ---
-
 layout: page
 title: Useful Resources!!
-
 ---
 
  ### Machine Learning Resources
