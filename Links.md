@@ -3,7 +3,7 @@ layout: page
 title: Useful Resources!!
 ---
 
- ### Machine Learning Resources
+### Machine Learning Resources
                 
 - [Google AI]("https://ai.google/research/pubs/")
 - [Facebook Research]("https://research.fb.com/publications/")
