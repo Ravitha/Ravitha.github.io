@@ -4,7 +4,7 @@ title: How to Write Research Paper
 ---
 
 
->Transcripts from Andrej Karparthy
+>Transcripts from Andrej Karparthy Blog
 
 ### Hierarchical Arrangement
   - Introduction (~ 1 page)
@@ -28,11 +28,11 @@ title: How to Write Research Paper
   - Work done
   - Core Challenges
   - Baseline approach
-  - MOtivate the work donw
+  - Motivate the work done
   - Describe the work
   
   
   
-  https://cs.stanford.edu/people/widom/paper-writing.html
-  http://www.amitabhadey.com/
+  > https://cs.stanford.edu/people/widom/paper-writing.html
+  > http://www.amitabhadey.com/
   
