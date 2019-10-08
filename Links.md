@@ -27,3 +27,9 @@ title: Useful Resources!!
 - [Peter Naylor](https://peterjacknaylor.github.io/)
 - [Andrej Karparthy](http://karpathy.github.io/)
 - [Jeremy Jordan](https://www.jeremyjordan.me/evaluating-image-segmentation-models/)
+- [Curated Papers in Deep Learning](https://www.curatedpapers.com/lists/guyzana/intro-to-deep-learning-6876b15a)
+
+### Datasets
+- [Comprehensive List from Wikipedia](https://en.wikipedia.org/wiki/List_of_datasets_for_machine-learning_research)
+- [Clinical Health Datasets](https://medium.com/@ODSC/15-open-datasets-for-healthcare-830b19980d9)
+- [Chest X-Ray Dataset](https://openi.nlm.nih.gov/faq)
