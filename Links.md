@@ -15,6 +15,7 @@ title: Useful Resources!!
 - [Data Science for Social Good](http://www.dssgfellowship.org//blog/)
 - [NYC Data SCience Blog](https://nycdatascience.com/blog/)
 - [Company Data SCience Blogs](https://github.com/caitlinhudon/company_data_science_blogs)
+- [The One nice Blog for Everything on ML](https://www.bogotobogo.com/python/scikit-learn/scikit_machine_learning_features_extraction.php)
 
 ### Beautiful Posts and Links concerned with Deep Learning
 - [Colah's Blog](https://colah.github.io/)
