@@ -29,6 +29,7 @@ title: Useful Resources!!
 - [Andrej Karparthy](http://karpathy.github.io/)
 - [Jeremy Jordan](https://www.jeremyjordan.me/evaluating-image-segmentation-models/)
 - [Curated Papers in Deep Learning](https://www.curatedpapers.com/lists/guyzana/intro-to-deep-learning-6876b15a)
+- [Beautiful Visualizations in 80's](http://stat-graphics.org/movies/)
 
 ### Datasets
 - [Comprehensive List from Wikipedia](https://en.wikipedia.org/wiki/List_of_datasets_for_machine-learning_research)
