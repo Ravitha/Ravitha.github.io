@@ -35,3 +35,4 @@ title: Useful Resources!!
 - [Comprehensive List from Wikipedia](https://en.wikipedia.org/wiki/List_of_datasets_for_machine-learning_research)
 - [Clinical Health Datasets](https://medium.com/@ODSC/15-open-datasets-for-healthcare-830b19980d9)
 - [Chest X-Ray Dataset](https://openi.nlm.nih.gov/faq)
+- [Fast ai datasets](https://course.fast.ai/datasets#nlp)
