@@ -32,6 +32,8 @@ title: Useful Resources!!
 - [Beautiful Visualizations in 80's](http://stat-graphics.org/movies/)
 - [Stanford link](http://vision.stanford.edu/)
 - [Benchmarking models](https://dawn.cs.stanford.edu//)
+- [AI Resources](http://www.qiscet.edu.in/qismilarg/pdf/Leading%20India%20AI%20Resources.pdf)
+- [Good Introduction to various deep neural network models](http://eyeriss.mit.edu/tutorial.html)
 
 ### Datasets
 - [Comprehensive List from Wikipedia](https://en.wikipedia.org/wiki/List_of_datasets_for_machine-learning_research)
