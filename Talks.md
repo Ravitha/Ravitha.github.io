@@ -5,6 +5,7 @@ title: Talks
 
 ---
 
+- **Chatbots** - Technical Talk in AICTE Sponsored Faculty Development Programme on Problem Solving using Python- PSG Polytechnic College, Coimbatore - 16.12.2019[[Slides](https://github.com/Ravitha/Ravitha.github.io/blob/master/Guest%20Lectures/Chatbots/Chatbots.pdf)] 
 - **Hadoop & MapReduce** –Technical Talk– PSG Institute of Technology and Applied Research – October 17, 2019.[[Slides](https://github.com/Ravitha/Ravitha.github.io/blob/master/Guest%20Lectures/Hadoop%20%26%20MapReduce.pdf)]
 - **Deep Learning Workflow in Keras** in one week FDP on Computer Vision and Deep Learning: A Research Perspective – August 28, 2019. [[Slides](https://github.com/Ravitha/Ravitha.github.io/blob/master/Guest%20Lectures/Deep%20Learning%20Workflow.pdf)][[Materials](https://github.com/Ravitha/Ravitha.github.io/tree/master/Guest%20Lectures/Image%20Processing)]
 - **Technology in Classroom: Google Classroom** –Technical Seminar – PSG College of Technology – July 19, 2019.[[Slides](https://github.com/Ravitha/Ravitha.github.io/blob/master/Guest%20Lectures/LMS.pdf)]
