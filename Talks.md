@@ -4,6 +4,7 @@ layout: page
 title: Talks
 
 ---
+- **Deep Learning in Image Segmentation**- Expert Lecture in TNSCST sponsored Two week Faculty Development Programme on Research Challenge in Image and Signal processing - Feb 24,2020
 - **Semantic Segmentation using CNN** - Technical Talk in DCT-ISP Sponsored Two week Faculty Develpoment Programme on RECENT TRENDS AND RESEARCH CHALLENGES IN ARTIFICIAL INTELLIGENCE, MACHINE LEARNING AND DEEP LEARNING - January 20 - Febrauray 2, 2020
 - **Chatbots** - Technical Talk in AICTE Sponsored Faculty Development Programme on Problem Solving using Python- PSG Polytechnic College, Coimbatore - December 16, 2019[[Slides](https://github.com/Ravitha/Ravitha.github.io/blob/master/Guest%20Lectures/Chatbots/Chatbots.pdf)] 
 - **Hadoop & MapReduce** –Technical Talk– PSG Institute of Technology and Applied Research – October 17, 2019.[[Slides](https://github.com/Ravitha/Ravitha.github.io/blob/master/Guest%20Lectures/Hadoop%20%26%20MapReduce.pdf)]
