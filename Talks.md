@@ -4,6 +4,7 @@ layout: page
 title: Talks
 
 ---
+- **Hands-on -  Deep Neural Networks using Keras and PyTorch** - Online Workshop on Deep Learning with Keras and PyTorch - Department of CSE, PSG College of Technology, Coimbatore - April 10, 2021
 - **Hadoop Framework for Big Data Analysis** - Online Webinar in a Five days programme on "Introduction to Big Data and Engineering"- PSG Polytechnic College, Coimbatore - September 3, 2020
 - **Deep Learning in Image Segmentation**- Expert Lecture in TNSCST sponsored Two week Faculty Development Programme on Research Challenge in Image and Signal processing - GCT College of Technology, Coimbatore - Feb 24,2020
 - **Semantic Segmentation using CNN** - Technical Talk in DCT-ISP Sponsored Two week Faculty Develpoment Programme on Recent Trends and Research Challenges in Artificial Intelligence, Machine Learning and Deep Learning -PSG College of Technology - January 31 - Febrauray 1, 2020
