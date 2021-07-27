@@ -4,6 +4,7 @@ layout: page
 title: Talks
 
 ---
+- **Hands-on session on Digital Forensics** - One Year Online Certification on Cyber Security and Data Science through PSG CARE - Department of CSE & IT, PSG College of Technology, Coimbatore - July 24, 2021
 - **Hands-on -  Deep Neural Networks using Keras and PyTorch** - Online Workshop on Deep Learning with Keras and PyTorch - Department of CSE, PSG College of Technology, Coimbatore - April 10, 2021
 - **Hadoop Framework for Big Data Analysis** - Online Webinar in a Five days programme on "Introduction to Big Data and Engineering"- PSG Polytechnic College, Coimbatore - September 3, 2020
 - **Deep Learning in Image Segmentation**- Expert Lecture in TNSCST sponsored Two week Faculty Development Programme on Research Challenge in Image and Signal processing - GCT College of Technology, Coimbatore - Feb 24,2020
