@@ -42,7 +42,7 @@ title: Useful Resources!!
 - [Fast ai datasets](https://course.fast.ai/datasets#nlp)
 
 ### 3D Volume rendering
-- [Cross sectional view of sloid objects](http://www.shodor.org/interactivate/activities/CrossSectionFlyer/)
+- [Cross sectional view of solid objects](http://www.shodor.org/interactivate/activities/CrossSectionFlyer/)
 - [Transformations of a 3D volume(Josh's Channel)](https://www.youtube.com/watch?v=wiYTxjJjfxs)
 
 
