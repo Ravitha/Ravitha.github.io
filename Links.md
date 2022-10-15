@@ -40,3 +40,9 @@ title: Useful Resources!!
 - [Clinical Health Datasets](https://medium.com/@ODSC/15-open-datasets-for-healthcare-830b19980d9)
 - [Chest X-Ray Dataset](https://openi.nlm.nih.gov/faq)
 - [Fast ai datasets](https://course.fast.ai/datasets#nlp)
+
+### 3D Volume rendering
+- [Cross sectional view of sloid objects](http://www.shodor.org/interactivate/activities/CrossSectionFlyer/)
+- [Transformations of a 3D volume(Josh's Channel)](https://www.youtube.com/watch?v=wiYTxjJjfxs)
+
+
